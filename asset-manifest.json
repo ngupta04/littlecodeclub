@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.d1b05096.chunk.css",
-    "main.js": "/static/js/main.e3f709d0.chunk.js",
-    "main.js.map": "/static/js/main.e3f709d0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6d1bca60.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6d1bca60.js.map",
-    "static/js/2.1e485786.chunk.js": "/static/js/2.1e485786.chunk.js",
-    "static/js/2.1e485786.chunk.js.map": "/static/js/2.1e485786.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4fa58b50c72de771838c2654fb35f474.js": "/precache-manifest.4fa58b50c72de771838c2654fb35f474.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.1e485786.chunk.js.LICENSE.txt": "/static/js/2.1e485786.chunk.js.LICENSE.txt",
-    "static/media/1858.jpg": "/static/media/1858.4322c536.jpg",
-    "static/media/1859.jpg": "/static/media/1859.b1555ae8.jpg",
-    "static/media/1860.jpg": "/static/media/1860.048701d6.jpg"
+    "main.css": "/littlecodeclub/static/css/main.d1b05096.chunk.css",
+    "main.js": "/littlecodeclub/static/js/main.46b3c37e.chunk.js",
+    "main.js.map": "/littlecodeclub/static/js/main.46b3c37e.chunk.js.map",
+    "runtime-main.js": "/littlecodeclub/static/js/runtime-main.adef06a0.js",
+    "runtime-main.js.map": "/littlecodeclub/static/js/runtime-main.adef06a0.js.map",
+    "static/js/2.1e485786.chunk.js": "/littlecodeclub/static/js/2.1e485786.chunk.js",
+    "static/js/2.1e485786.chunk.js.map": "/littlecodeclub/static/js/2.1e485786.chunk.js.map",
+    "index.html": "/littlecodeclub/index.html",
+    "precache-manifest.2e47f10e64b28252225ab4c9967af395.js": "/littlecodeclub/precache-manifest.2e47f10e64b28252225ab4c9967af395.js",
+    "service-worker.js": "/littlecodeclub/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/littlecodeclub/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.1e485786.chunk.js.LICENSE.txt": "/littlecodeclub/static/js/2.1e485786.chunk.js.LICENSE.txt",
+    "static/media/1858.jpg": "/littlecodeclub/static/media/1858.4322c536.jpg",
+    "static/media/1859.jpg": "/littlecodeclub/static/media/1859.b1555ae8.jpg",
+    "static/media/1860.jpg": "/littlecodeclub/static/media/1860.048701d6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d1bca60.js",
+    "static/js/runtime-main.adef06a0.js",
     "static/js/2.1e485786.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.e3f709d0.chunk.js"
+    "static/js/main.46b3c37e.chunk.js"
   ]
 }
